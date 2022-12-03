@@ -1,0 +1,7 @@
+﻿  brainbucket.cpp
+C:\Users\Ancir\Downloads\UH fall 22\cosc 1437\BrainBucketFinalZIPPED\BrainbucketFinal\brainbucket\Skater.h(84,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ancir\Downloads\UH fall 22\cosc 1437\BrainBucketFinalZIPPED\BrainbucketFinal\brainbucket\brainbucket.cpp(72,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ancir\Downloads\UH fall 22\cosc 1437\BrainBucketFinalZIPPED\BrainbucketFinal\brainbucket\brainbucket.cpp(226,13): warning C4551: function call missing argument list
+C:\Users\Ancir\Downloads\UH fall 22\cosc 1437\BrainBucketFinalZIPPED\BrainbucketFinal\brainbucket\brainbucket.cpp(268,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ancir\Downloads\UH fall 22\cosc 1437\BrainBucketFinalZIPPED\BrainbucketFinal\brainbucket\brainbucket.cpp(314,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  brainbucket.vcxproj -> C:\Users\Ancir\Downloads\UH fall 22\cosc 1437\BrainBucketFinalZIPPED\BrainbucketFinal\x64\Debug\brainbucket.exe
